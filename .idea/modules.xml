@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithm/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm/Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day01Demo/Day01Demo.iml" filepath="$PROJECT_DIR$/Day01Demo/Day01Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day02Demo/Day02Demo.iml" filepath="$PROJECT_DIR$/Day02Demo/Day02Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day03Demo/Day03Demo.iml" filepath="$PROJECT_DIR$/Day03Demo/Day03Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day04Demo/Day04Demo.iml" filepath="$PROJECT_DIR$/Day04Demo/Day04Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day05Demo/Day05Demo.iml" filepath="$PROJECT_DIR$/Day05Demo/Day05Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day06Demo/Day06Demo.iml" filepath="$PROJECT_DIR$/Day06Demo/Day06Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day07Demo/Day07Demo.iml" filepath="$PROJECT_DIR$/Day07Demo/Day07Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day08Demo/Day08Demo.iml" filepath="$PROJECT_DIR$/Day08Demo/Day08Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO/IO.iml" filepath="$PROJECT_DIR$/IO/IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myArrayList/myArrayList.iml" filepath="$PROJECT_DIR$/myArrayList/myArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myOop/myOop.iml" filepath="$PROJECT_DIR$/myOop/myOop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myPractice/myPractice.iml" filepath="$PROJECT_DIR$/myPractice/myPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myStudentManager/myStudentManager.iml" filepath="$PROJECT_DIR$/myStudentManager/myStudentManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/排序/排序.iml" filepath="$PROJECT_DIR$/排序/排序.iml" />
+    </modules>
+  </component>
+</project>
